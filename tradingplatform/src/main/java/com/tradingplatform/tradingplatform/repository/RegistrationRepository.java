@@ -1,4 +1,4 @@
-   package com.tradingplatform.tradingplatform.repository;
+package com.tradingplatform.tradingplatform.repository;
 
 import java.util.List;
 
